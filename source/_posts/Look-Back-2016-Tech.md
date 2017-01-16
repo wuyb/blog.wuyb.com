@@ -4,7 +4,7 @@ date: 2016-12-26 02:56:58
 tags: [tech]
 layout: true
 ---
-
+![title](/images/hacker.jpg)
 2016 年技术上最大的收获是 React 和 React Native。踩过一些坑，趟过一些雷。
 
 <!-- more -->

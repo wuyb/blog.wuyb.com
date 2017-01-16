@@ -4,7 +4,7 @@ date: 2016-12-26 03:16:49
 tags: [life, tech, reading, lego]
 layout: true
 ---
-
+![title](/images/lego.jpg)
 2017年的展望，概括来说是：十二本书，一套产品，一组乐高。
 
 <!-- more -->

@@ -4,7 +4,7 @@ date: 2017-1-10 16:20:10
 tags: [tech]
 layout: true
 ---
-
+![title](/images/lightening.png)
 之前一直听说微信支付的 API 是个坑货，坑到有专门的封装支付的平台。这次自己体验了一下，果然很坑。做个笔记。
 
 <!-- more -->
