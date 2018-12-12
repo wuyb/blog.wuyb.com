@@ -1,6 +1,7 @@
 menu:
   Home: /
   Archives: /archives
+  About: /
 
 # duoshuo comment
 duoshuo: false

@@ -1,6 +1,6 @@
 article {
   position: relative;
-  padding: 8rem 0;
+  padding: 4rem 0;
 }
 article a {
   color: #f03838;
@@ -68,7 +68,7 @@ article .article-top-meta a time {
 article .article-excerpt,
 article .article-content,
 article .featured-media {
-  margin: 4rem 0;
+  margin: 1rem 0;
   font-size: 1.6rem;
   color: #424242;
 }
